@@ -1,2 +1,3 @@
-# my-first-project
+# example-project
+
 This is my first project!
